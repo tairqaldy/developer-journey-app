@@ -1,3 +1,3 @@
-project_id            = tensile-impact-438212-f0
-run_service_name      = dev-journey
-github_repository_url = https://github.com/tairqaldy/developer-journey-app 
+project_id            = "tensile-impact-438212-f0"
+run_service_name      = "dev-journey"
+github_repository_url = "https://github.com/tairqaldy/developer-journey-app"
